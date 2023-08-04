@@ -5,7 +5,7 @@ function App() {
     
     <body className="Background-header">
       <ParticlesBackground/>
-      <div>
+      <div className="FirstBlockCenter-block">
         <h1 className="KhangTranGradient-text"> Khang Tran </h1>
       </div>
     </body>
