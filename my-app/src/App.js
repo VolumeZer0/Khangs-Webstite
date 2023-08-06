@@ -14,7 +14,7 @@ function App() {
       <div className="Left-block">
         <h1 className="Khang-text Gradient-effect"> Khang </h1>
         <h1 className="Tran-text Gradient-effect"> Tran </h1>
-        <p className="Bio-text"> I am currently a student studying under the Computer Engineering major at UC San Diego. The languages I have worked with include Python, Java, React, and React Native. My hobbies include programming, buildings things, gaming, and also socializing! So feel free to reach out!</p>
+        <p className="Bio-text"> I am currently a student studying under the Computer Engineering major at UC San Diego. The languages I have worked with include Python, Java, React, and React Native. <br/><br/>My hobbies include programming, buildings things, gaming, and also socializing! So feel free to reach out!</p>
 
       </div>
 
