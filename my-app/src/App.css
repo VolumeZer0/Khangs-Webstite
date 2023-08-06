@@ -64,20 +64,21 @@
 .Khang-text {
   margin: 0;
   /* background-color: pink; */
-  font-size: 9vw;
+  font-size: 10vw;
 }
 
 .Tran-text{
   text-align: right;
   margin: 0;
-  font-size: 9vw;
+  font-size: 10vw;
 }
 
 .Bio-text{
-  padding-top: 10%;
+  padding-top: 5%;
   color: #B4B5B7;
   margin: 0;
-  font-size: 1.2vw;
+  font-size: 1.4vw;
+  font-family: 'DM Serif Display', serif;
 }
 
 .Gradient-effect{
