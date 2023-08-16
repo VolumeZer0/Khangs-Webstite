@@ -75,9 +75,10 @@
 
 .Bio-text{
   padding-top: 5%;
-  color: #B4B5B7;
+  /* color: #B4B5B7; */
+  color: #e6e3e3;
   margin: 0;
-  font-size: 1.4vw;
+  font-size: 1.8vw;
   font-family: 'DM Serif Display', serif;
 }
 
