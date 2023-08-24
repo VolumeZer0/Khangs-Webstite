@@ -27,6 +27,7 @@
 .leftColumn-block {
   /* background-color: rgb(193, 127, 255); */
   /* background-color: transparent; */
+  position: fixed;
   margin-right: 1%;
   height: 100vh;
   width: 3vw;
@@ -53,12 +54,22 @@
 .Left-block {
   flex-wrap: wrap;
   /* background-color: #1f252e; */
+  position: fixed;
+  margin-left: 4%;
   height: 100vh;
   width: 35vw;
-  /* display: flex; */
-  
+
+  /* display: flex;
   /* align-items: center;  centers it vertically */
   /* justify-content: center; centers it horizaontally */
+}
+
+.Right-block {
+  flex-wrap: wrap;
+  /* background-color: #1760ce; */
+  margin-left: 40%;
+  height: 100vh;
+  width: 59vw;
 }
 
 .Khang-text {
@@ -70,15 +81,16 @@
 .Tran-text{
   text-align: right;
   margin: 0;
+  padding-right: 16%;
   font-size: 10vw;
 }
 
 .Bio-text{
-  padding-top: 5%;
+  padding-top: 1%;
   /* color: #B4B5B7; */
   color: #e6e3e3;
   margin: 0;
-  font-size: 1.8vw;
+  font-size: 3.6vb;
   font-family: 'DM Serif Display', serif;
 }
 
