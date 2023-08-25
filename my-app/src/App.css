@@ -73,13 +73,14 @@
 }
 
 .Name-text {
+  word-wrap: break-word;
   color: #e6e3e3;
   padding-top: 5%;
   font-family: 'DM Serif Display', serif;
   text-Align: center;
   margin: 0;
   /* background-color: pink; */
-  font-size: 25vb;
+  font-size: 12vw;
   line-height: 90%;
 
   /* gradient animation stuff */
