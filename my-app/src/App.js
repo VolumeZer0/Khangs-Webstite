@@ -14,12 +14,10 @@ function App() {
       </div>
       <div className="Left-block">
         <h1 className="Name-text"> Khang Tran </h1>
-        <h1 className="Tran-text ">  </h1> 
-        {/* Gradient-effect */}
-        <p className="Bio-text"> I am currently a student studying UC San Diego as a Computer Engineering Major. The languages I have worked with include Python, Java, React, and React Native. <br/><br/> I love to learn about new things especially when it comes to coding concepts and new ideas.  <br/><br/> Besides coding, my hobbies include gaming, exercising, building things, and socializing. So feel free to reach out and contact me! </p>
+        <p className="Bio-text"> I am currently a student studying UC San Diego as a Computer Engineering Major. The languages I have worked with include Python, Java, React, and React Native. <br/><br/> I love to learn about new things especially when it comes to coding concepts and new ideas.  <br/><br/> Besides coding, my hobbies include gaming, exercising, building things, and socializing! So feel free to reach out and contact me! </p>
       </div>
       <div className="Right-block">
-        <p className="Bio-text"> </p>
+        <p className="Bio-text"> this is temporary text</p>
       </div>
 
     </body>
