@@ -29,25 +29,23 @@
   /* background-color: transparent; */
   position: fixed;
   margin-right: 1%;
-  height: 100vh;
+  height: 100%;
   width: 3vw;
-  /* align-items: center;  centers it vertically
-  justify-content: center; centers it horizaontally */
+  align-items: center;  /* centers it vertically */
+  justify-content: center; /* centers it horizaontally */  
 }
 
 .logobutton-block {
-  display: flex;
   align-items: center;  /* centers it vertically */
   justify-content: center; /* centers it horizaontally */
   /* background-color: red; */
-  height: auto;
-  width: 3vw;
-  padding-top: .4vh;
   padding-bottom: .4vh;
+  padding-left: 1vh;
 }
 
 .logo-img {
-  width: 2vw;
+  padding-top: 2vh;
+  width: 2.4vw;
   height: auto;
 }
 
